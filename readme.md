@@ -6,7 +6,7 @@ Ladies and Gents,
 </em></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/version-1.8.3-yellowgreen" alt="version 1.8.3"/>
+    <img src="https://img.shields.io/badge/version-1.8.3-yellowgreen" alt="version 2.1.2"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/author-JYOTIRADITYA-orange" alt="author Jyotiraditya"/>
 </p>
